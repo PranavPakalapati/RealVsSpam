@@ -1,4 +1,4 @@
-# RealVsSpam
+#:boom:RealVsSpam
 An NLP model that classifies between a real or spam message
 
 :dizzy:Real vs Spam Message Classifier using NLP :
