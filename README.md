@@ -6,7 +6,7 @@ An NLP model that classifies between a real or spam message
 
 This is a machine learning project that aims to classify text messages as either "real" or "spam". The project uses Natural Language Processing (NLP) techniques to extract features from the text messages, and trains a machine learning model on a labeled dataset to predict whether a given text message is "real" or "spam".
 
-:dizzy:Dataset:
+:dizzy:Dataset: 
 
 The dataset used in this project is a collection of text messages, both real and spam, obtained from various sources. The dataset contains a total of 5,000 messages, of which 2,500 are labeled as "real" and 2,500 as "spam". The dataset is split into training and testing sets, with 80% of the data used for training the model and 20% used for testing the model.
 
