@@ -1,7 +1,7 @@
 # :boom:RealVsSpam
   
 An NLP model that classifies between a real or spam message
-
+ 
 :dizzy:Real vs Spam Message Classifier using NLP :
 
 This is a machine learning project that aims to classify text messages as either "real" or "spam". The project uses Natural Language Processing (NLP) techniques to extract features from the text messages, and trains a machine learning model on a labeled dataset to predict whether a given text message is "real" or "spam".
